@@ -1,7 +1,7 @@
 # ME700-HW1
-Warm Up:
-Bisection method \n
+Warm Up:    
+Bisection method   
 Part 1:
-To e continued
+To e continued    
 Part 2: 
-To be cotinued
+To be continued
