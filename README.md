@@ -2,6 +2,6 @@
 Warm Up:    
 Bisection method   
 Part 1:
-Coming soon!
+Coming soon!  
 Part 2: 
 Coming soon!
