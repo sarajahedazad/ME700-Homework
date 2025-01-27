@@ -2,6 +2,6 @@
 Warm Up:    
 Bisection method   
 Part 1:
-To be continued    
+Coming soon!
 Part 2: 
-To be continued
+Coming soon!
