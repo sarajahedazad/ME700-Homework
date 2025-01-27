@@ -2,6 +2,6 @@
 Warm Up:    
 Bisection method   
 Part 1:
-To e continued    
+To be continued    
 Part 2: 
 To be continued
