@@ -16,7 +16,7 @@ To be written.
 
 
 ### References
-* [https://github.com/Lejeune-Lab-Graduate-Course-Materials/bisection-method/tree/main](https://github.com/Lejeune-Lab-Graduate-Course-Materials/bisection-method/tree/main)
+* [Lejeune Lab Graduate Course Materials: Bisection-Method](https://github.com/Lejeune-Lab-Graduate-Course-Materials/bisection-method/tree/main)
 
 ---
 Questions for Sara:
