@@ -1,6 +1,7 @@
 ### Table of Contents
 * [An Introduction to Bisection Method](#intro)
-* [Bisection Method Algorithm](#intro)
+* [Requirements](#requirements)
+* [Codes](#codes)
 * [References](#references)
 ---
 
@@ -13,12 +14,11 @@ To be written
 
 ### Requirements
 
-python3
 numpy library
 
 ---
 
-### How to Use the Codes
+### Codes
 
 **class *BisectionSolver***  
 *Arributes*  
