@@ -1,6 +1,6 @@
 # HW1
 
-### Table of Content
+### Table of Contents
 
 * [Warm-up: Getting Bisection Method](https://github.com/sarajahedazad/ME700-Homework/tree/main/HW1/Warm-Up_Bisection%20Method)
 * Part 1: Newton's Method
