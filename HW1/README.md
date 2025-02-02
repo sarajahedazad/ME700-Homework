@@ -1,5 +1,7 @@
 # HW1
 
+### Table of Content
+
 * Warm-up: Getting Started + Bisection Method: *
 
 • Read https://github.com/Lejeune-Lab-Graduate-Course-Materials/setup-example and
