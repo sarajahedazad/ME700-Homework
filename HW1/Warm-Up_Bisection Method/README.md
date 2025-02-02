@@ -15,6 +15,12 @@ To be written
 To be written.
 
 ---
+
+### How to Use the Codes
+
+To be written.
+
+---
 ### References
 * [Lejeune Lab Graduate Course Materials: Bisection-Method](https://github.com/Lejeune-Lab-Graduate-Course-Materials/bisection-method/tree/main)
 
