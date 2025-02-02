@@ -13,13 +13,32 @@ To be written
 
 ### Requirements
 
-To be written
+python3
+numpy library
 
 ---
 
 ### How to Use the Codes
 
-To be written.
+**class *BisectionSolver***  
+*Arributes*  
+**abs_tol**: absolute tolerance, default = $10^{-10}$  
+**rel_tol**: relative tolerance, default = $10^{-10}$  
+**max_iter**: maximum number of iteration allowed to run the bisection algorithm, default = 50  
+**verbose**: whether to print out the debug information at each iteration or not, default = False
+
+*Methods:*  
+**solve**  
+Parameter: function,a, b. a and b are the bounds of the range in which the function is evaluated. The order does not matter. The should accept only one input and return a single float value with the size of one.      
+returns: the root of the function
+
+**How to use the bisection method:**  
+
+```
+solver = BisectionSolver()  
+root = solver.solve( function, bound1, bound2 )
+```
+
 
 ---
 ### References
