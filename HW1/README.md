@@ -1,6 +1,6 @@
 # HW1
 
-*** Warm-up: Getting Started + Bisection Method: ***
+* Warm-up: Getting Started + Bisection Method: *
 
 • Read https://github.com/Lejeune-Lab-Graduate-Course-Materials/setup-example and
 follow the instructions to get started.
