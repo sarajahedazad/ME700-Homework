@@ -18,7 +18,4 @@ To be written.
 ### References
 * [Lejeune Lab Graduate Course Materials: Bisection-Method](https://github.com/Lejeune-Lab-Graduate-Course-Materials/bisection-method/tree/main)
 
----
-Questions for Sara:
 
-How to make a .toml file automatically?
