@@ -1,18 +1,17 @@
 ### Table of Contents
-* [Introduction](#introduction)
-* [Bisection Method Algorithm](#algo)
+* [An Introduction to Bisection Method](#intro)
+* [Bisection Method Algorithm](#intro)
 * [References](#references)
 ---
 
-### Introduction
+### An Introduction to Bisection Method <a name="intro"></a>
 
 To be written
 
+
 ---
 
-### Bisection Method Algorithm <a name="algo"></a>
-
-To be written.
+### Requirements
 
 ---
 
