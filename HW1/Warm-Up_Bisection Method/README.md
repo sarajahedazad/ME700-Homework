@@ -52,7 +52,7 @@ The bisection method is highly reliable in all cases where the function continuo
 ---
 
 ### Codes
-
+The file `bisection_method.py` contains a class for the bisection solver.
 **class *BisectionSolver***  
 *Arributes*  
 **abs_tol**: absolute tolerance, default = $10^{-10}$  
