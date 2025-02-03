@@ -7,8 +7,8 @@ import example_functions as ef
 def test_bs_method():
     solver = bm.BisectionSolver()
 
-    a =
-    b =
+    a = -2
+    b = 5
     known_answer = 1.5
     assert np.isclose( solver.solve( ef.func_example1, a, b ) , known_answer)
 
