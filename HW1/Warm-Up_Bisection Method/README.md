@@ -30,12 +30,12 @@ The Bisection Method is a straightforward yet powerful algorithm for finding a r
 3. **Evaluation and Subinterval Selection**:
    - Evaluate the function at the midpoint, $f(c)$. 
    - Determine the subinterval that contains the root. If $f(c)$ is close enough to zero within a pre-defined tolerance, $c$ is returned as the root. The tolerances used are typically absolute tolerance (how close to zero $f(c)$ needs to be) and relative tolerance (how small the interval $[a, b]$ should become).
-   - If f(c) is not close enough to zero, decide which half of the interval to retain:
-     - If f(a) and f(c) have different signs, set b = c.
-     - Otherwise, set a = c.
+   - If $f(c)$ is not close enough to zero, decide which half of the interval to retain:
+     - If $f(a)$ and $f(c)$ have different signs, set $b = c$.
+     - Otherwise, set $a = c$.
 
 4. **Iteration**:
-   - Repeat the process, recalculating the midpoint for the new interval [a, b] until the root is located within the desired tolerances or until a maximum number of iterations is reached.
+   - Repeat the process, recalculating the midpoint for the new interval $[a, b]$ until the root is located within the desired tolerances or until a maximum number of iterations is reached.
 
 5. **Convergence Check**:
    - The algorithm typically includes a condition to exit if the number of iterations exceeds a set limit, indicating that the method may not be converging.
@@ -47,7 +47,7 @@ The bisection method is highly reliable in all cases where the function continuo
 
 ### Requirements
 
-numpy library
+`numpy library`
 
 ---
 
@@ -80,6 +80,6 @@ For examples of how to use the method, see `tutorial.ipynb`.
 ---
 ### References
 * [Lejeune Lab Graduate Course Materials: Bisection-Method](https://github.com/Lejeune-Lab-Graduate-Course-Materials/bisection-method/tree/main)
-* chatGPT: was used for completing the documentation. The "introduction" and "algorithm" sections are written by the GenAI.
+* chatGPT: was used for completing the documentation. The ["introduction"](#intro) and ["algorithm"](#ad) sections are written by the GenAI.
 
 
