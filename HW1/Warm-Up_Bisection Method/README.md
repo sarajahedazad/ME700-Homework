@@ -33,15 +33,20 @@ Parameter: function,a, b. a and b are the bounds of the range in which the funct
 returns: the root of the function
 
 **How to use the bisection method:**  
-
+The file `bisection_method.py` should be in the same directory as your working directory. Then it can be imported with the following line:
 ```
-solver = BisectionSolver()  
+import bisection_method as bm
+```
+The algorithm can be used as the following:
+```
+solver = bm.BisectionSolver()  
 root = solver.solve( function, bound1, bound2 )
 ```
-
+For examples of how to use the method, see `tutorial.ipynb`.
 
 ---
 ### References
 * [Lejeune Lab Graduate Course Materials: Bisection-Method](https://github.com/Lejeune-Lab-Graduate-Course-Materials/bisection-method/tree/main)
+* chatGPT: was used for completing the documentation.
 
 
