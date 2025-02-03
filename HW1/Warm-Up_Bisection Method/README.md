@@ -17,7 +17,7 @@ In this repository, the Bisection Method is implemented in Python, demonstrating
 ---
 
 
-### Algorithm Description
+### Algorithm Description <a name="ad"></a>
 
 The Bisection Method is a straightforward yet powerful algorithm for finding a root of a continuous function within a specified interval where the function changes sign. Here's how the algorithm proceeds:
 
