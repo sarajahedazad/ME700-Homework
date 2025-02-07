@@ -3,5 +3,6 @@ ME700, titled 'Advanced Topics in Mechanical Engineering,' is a course offered a
 ### Table of Contents
 * [HW1](https://github.com/sarajahedazad/ME700-Homework/tree/main/HW1)
   - [Warm-Up: Bisection Method](https://github.com/sarajahedazad/ME700-Homework/tree/main/HW1/Warm-Up_Bisection%20Method)
+  - [Part 1: Newton's Method](https://github.com/sarajahedazad/ME700-Homework/tree/main/HW1/Part%201_Newton%20Solver)
 
 
