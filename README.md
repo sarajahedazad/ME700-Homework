@@ -4,5 +4,6 @@ ME700, titled 'Advanced Topics in Mechanical Engineering,' is a course offered a
 * HW1
   - [Warm-Up: Bisection Method](https://github.com/sarajahedazad/Bisection-Method)
   - [Part 1: Newton's Method](https://github.com/sarajahedazad/Newton-Solver)
+  - [Part 2: Elastoplasticity]( https://github.com/sarajahedazad/Elastoplasticity )
 
 
